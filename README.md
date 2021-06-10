@@ -1,5 +1,5 @@
 # rottiyzer
-**rottiyzer:** Simple Script To Bruteforce the Rotation Nubmer in *ROT* <br>
+**rottiyzer:** Simple Script To Bruteforce the Rotation Number in *ROT* <br>
 *This is Only For educational Purpose and Practice*
 # Installation
 ```
