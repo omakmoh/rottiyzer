@@ -1,9 +1,9 @@
 # rottiyzer
 **rottiyzer:** Simple Script To Bruteforce the Rotation Nubmer in *ROT*
-
+*This is Only For educational Purpose and Practice*
 # Installation
 ```
-*Python3 Required*
+Python3 Required
 # Clone this repository
 git clone https://github.com/omakmoh/rottiyzer
 
